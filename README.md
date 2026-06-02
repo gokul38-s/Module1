@@ -1,5 +1,6 @@
 ## Conditional Statements in Python: Even or Odd Checker
-
+Name : Gokul S
+Reg No : 212225060070
 
 ## 🎯 Aim
 
